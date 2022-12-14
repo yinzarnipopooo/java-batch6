@@ -7,6 +7,15 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.FileInputStream;
 
+/**
+ * <h2> Tutorial6c Class</h2>
+ * <p>
+ * Process for Displaying Tutorial6c
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial6c {
 
 	public static void main(String[] args) {

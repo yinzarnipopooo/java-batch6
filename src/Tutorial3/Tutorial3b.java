@@ -2,6 +2,15 @@ package Tutorial3;
 
 import java.util.Arrays;
 
+/**
+ * <h2> Tutorial3b Class</h2>
+ * <p>
+ * Process for Displaying Tutorial3b
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial3b {
 
 	public static void main(String[] args) {

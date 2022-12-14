@@ -4,6 +4,15 @@ import java.io.File;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 
+/**
+ * <h2> Tutorial6a Class</h2>
+ * <p>
+ * Process for Displaying Tutorial6a
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial6a {
 
 	public static void main(String[] args) {

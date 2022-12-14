@@ -1,5 +1,14 @@
 package Tutorial1;
 
+/**
+ * <h2> Tutorial1 Class</h2>
+ * <p>
+ * Process for Displaying Tutorial1
+ * </p>
+ * 
+ * @author Yin Zarni Po Po Oo
+ *
+ */
 public class Tutorial1 {
 
 	public static void main(String[] args) {

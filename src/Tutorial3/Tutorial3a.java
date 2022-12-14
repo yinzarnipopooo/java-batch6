@@ -5,6 +5,15 @@ import java.util.Scanner;
 
 import java.lang.reflect.Array;
 
+/**
+ * <h2> Tutorial3a Class</h2>
+ * <p>
+ * Process for Displaying Tutorial3a
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial3a {
 
 	public static void main(String[] args) {

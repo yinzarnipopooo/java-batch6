@@ -2,6 +2,15 @@ package Tutorial4;
 
 import java.util.Arrays;
 
+/**
+ * <h2> Tutorial4a Class</h2>
+ * <p>
+ * Process for Displaying Tutorial4a
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial4a {
 
 	public static int[] addX(int n, int arr[], int x) {

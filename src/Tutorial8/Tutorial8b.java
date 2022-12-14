@@ -10,6 +10,15 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 
+/**
+ * <h2> Tutorial8b Class</h2>
+ * <p>
+ * Process for Displaying Tutorial8b
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial8b {
 
 	// any exceptions need to be caught

@@ -2,6 +2,15 @@ package Tutorial2;
 
 import java.util.Scanner;
 
+/**
+ * <h2> Tutorial2c Class</h2>
+ * <p>
+ * Process for Displaying Tutorial2c
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial2c {
 
 	public static void main(String[] args) {

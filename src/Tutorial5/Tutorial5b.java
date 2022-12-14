@@ -3,6 +3,15 @@ package Tutorial5;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * <h2> Tutorial5b Class</h2>
+ * <p>
+ * Process for Displaying Tutorial5b
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial5b {
 
 	public static <K, V> Map<K, V> copyMap(Map<K, V> original) {

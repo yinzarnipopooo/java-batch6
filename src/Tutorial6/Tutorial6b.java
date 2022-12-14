@@ -4,6 +4,15 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
+/**
+ * <h2> Tutorial6b Class</h2>
+ * <p>
+ * Process for Displaying Tutorial6b
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial6b {
 
 	public static void main(String[] args) {

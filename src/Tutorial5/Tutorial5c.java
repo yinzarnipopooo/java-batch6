@@ -2,6 +2,15 @@ package Tutorial5;
 
 import java.util.HashMap;
 
+/**
+ * <h2> Tutorial5c Class</h2>
+ * <p>
+ * Process for Displaying Tutorial5c
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial5c {
 
 	public static void main(String[] args) {

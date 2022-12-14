@@ -1,5 +1,14 @@
 package Tutorial7;
 
+/**
+ * <h2> Tutorial7b Class</h2>
+ * <p>
+ * Process for Displaying Tutorial7b
+ * </p>
+ * 
+ * @author ${Yin Zarni Po Po Oo}
+ *
+ */
 public class Tutorial7b {
 
 	public static boolean isPalindrome(String str) {
