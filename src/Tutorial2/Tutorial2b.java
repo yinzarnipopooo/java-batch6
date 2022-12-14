@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Tutorial2b {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter the 1st number: ");

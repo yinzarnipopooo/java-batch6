@@ -7,7 +7,6 @@ import java.text.SimpleDateFormat;
 public class Tutorial6a {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// Creating two instances of file class
 		// file1.txt exists in the system

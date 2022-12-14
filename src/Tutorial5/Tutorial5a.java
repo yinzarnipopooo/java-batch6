@@ -5,7 +5,6 @@ import java.util.HashMap;
 public class Tutorial5a {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// Create an empty hash map by declaring object
 		// of string and integer type

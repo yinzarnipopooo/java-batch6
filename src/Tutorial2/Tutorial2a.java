@@ -5,14 +5,23 @@ import java.util.Scanner;
 public class Tutorial2a {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner scan = new Scanner(System.in);
+
 		System.out.print("Enter the number: ");
-		// reading value from user
-		int num = scan.nextInt();
-		// method calling
-		findPosNeg(num);
+		if (scan.hasNextInt()) {
+			// reading value from user
+			int num = scan.nextInt();
+
+			// method calling
+			findPosNeg(num);
+
+		}
+
+		else {
+			System.out.println("Please enter NUMBER ONLY!!!!");
+
+		}
 	}
 
 	// user defined method
@@ -23,5 +32,4 @@ public class Tutorial2a {
 		else
 			System.out.println(num + " is negative!!");
 	}
-
 }

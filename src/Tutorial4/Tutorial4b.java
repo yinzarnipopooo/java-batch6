@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class Tutorial4b {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		String[] arr = { "Black", "White", "Yellow", "Blue", "Green" };
 

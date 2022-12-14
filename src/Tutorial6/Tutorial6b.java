@@ -7,7 +7,6 @@ import java.nio.file.StandardOpenOption;
 public class Tutorial6b {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		try {
 			String file = "D:\\BIB Training\\Forpj\\sample.txt";

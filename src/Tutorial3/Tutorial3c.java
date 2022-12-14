@@ -6,7 +6,6 @@ import java.util.List;
 public class Tutorial3c {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		List<Integer> al = new ArrayList<Integer>();
 		al.add(10);

@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Tutorial2c {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter your favorite year : ");

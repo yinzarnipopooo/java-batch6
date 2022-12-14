@@ -5,7 +5,6 @@ import java.util.HashMap;
 public class Tutorial5c {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		HashMap<String, Integer> hash_map = new HashMap<String, Integer>();
 		hash_map.put("Red", 1);
